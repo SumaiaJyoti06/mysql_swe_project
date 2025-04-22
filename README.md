@@ -1,1 +1,3 @@
-# mysql_swe_project
+### Schema Diagram
+
+![Description of image](image.png)
