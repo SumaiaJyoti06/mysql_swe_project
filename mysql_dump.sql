@@ -1,3 +1,7 @@
+-- Database Create
+    CREATE DATABASE jyoti;
+    USE jyoti;
+
 -- Step 1: Create Business
 CREATE TABLE Business (
     business_id   INT AUTO_INCREMENT PRIMARY KEY,
