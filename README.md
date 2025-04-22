@@ -56,4 +56,6 @@
 - `sales_id` *(Foreign Key → Sales)*  
 - `product_id` *(Foreign Key → Product)*  
 - `quantity`  
-- `price`  
+- `price`
+
+![MySQL Database](image2.png)
